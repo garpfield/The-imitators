@@ -3,7 +3,7 @@
   "header": {
     "description": "§eNot the latest version update yet Xd by §eXaenkillerMC",
     "name": "§eThe Imitators Update 0.6.4",
-    "uuid": "09ed0231-b5ee-43d9-b6cf-0b7cb8aa87e4",
+    "uuid": "61f52db9-981c-4b2a-9ffc-1341751a9391",
     "version": [
       1,
       0,
@@ -18,8 +18,8 @@
   "modules": [
     {
       "description": "§eNot the latest version update yet Xd by §eXaenkillerMC",
-      "type": "data",
-      "uuid": "33baac42-959d-4525-8e8b-f30d11b7e739",
+      "type": "resources",
+      "uuid": "1a057634-0fde-4be2-8885-681f24871779",
       "version": [
         1,
         0,
@@ -29,24 +29,12 @@
   ],
   "dependencies": [
     {
-      "uuid": "61f52db9-981c-4b2a-9ffc-1341751a9391",
+      "uuid": "09ed0231-b5ee-43d9-b6cf-0b7cb8aa87e4",
       "version": [
         1,
         0,
         0
       ]
-    },
-    {
-      "version": "1.18.0-beta",
-      "module_name": "@minecraft/server"
-    },
-    {
-      "version": "1.4.0-beta",
-      "module_name": "@minecraft/server-ui"
-    },
-    {
-      "version": "1.2.0",
-      "module_name": "@minecraft/common"
     }
   ]
 }

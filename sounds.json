@@ -1,0 +1,1734 @@
+{
+  "entity_sounds": {
+    "entities": {
+      "imitators:tornopen1": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "ambient": {
+            "sound": "mob.imitators_tornopen.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "hurt": {
+            "sound": "mob.imitators_tornopen.hurt",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "death": {
+            "sound": "mob.imitators_tornopen.death",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "step": {
+            "sound": "mob.imitators_tornopen.step",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "attack.strong": {
+            "sound": "mob.imitators_tornopen.bite",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "roar": {
+            "sound": "mob.imitators_tornopen.roar",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "stun": {
+            "sound": "mob.imitators_tornopen.stun",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "ambient.in.raid": {
+            "sound": "mob.imitators_tornopen.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "celebrate": {
+            "sound": "mob.imitators_tornopen.celebrate",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          }
+        }
+      },
+      "imitators:tornopen2": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "ambient": {
+            "sound": "mob.imitators_tornopen.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "hurt": {
+            "sound": "mob.imitators_tornopen.hurt",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "death": {
+            "sound": "mob.imitators_tornopen.death",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "step": {
+            "sound": "mob.imitators_tornopen.step",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "attack.strong": {
+            "sound": "mob.imitators_tornopen.bite",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "roar": {
+            "sound": "mob.imitators_tornopen.roar",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "stun": {
+            "sound": "mob.imitators_tornopen.stun",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "ambient.in.raid": {
+            "sound": "mob.imitators_tornopen.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "celebrate": {
+            "sound": "mob.imitators_tornopen1.celebrate",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          }
+        }
+      },
+      "imitators:tornopen": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "ambient": {
+            "sound": "mob.imitators_tornopen.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "hurt": {
+            "sound": "mob.imitators_tornopen.hurt",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "death": {
+            "sound": "mob.imitators_tornopen.death",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "step": {
+            "sound": "mob.imitators_tornopen.step",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "attack.strong": {
+            "sound": "mob.imitators_tornopen.bite",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "roar": {
+            "sound": "mob.imitators_tornopen.roar",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "stun": {
+            "sound": "mob.imitators_tornopen.stun",
+            "volume": [
+              10.0,
+              10.0
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          },
+          "ambient.in.raid": {
+            "sound": "mob.imitators_tornopen.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "celebrate": {
+            "sound": "mob.imitators_tornopen.celebrate",
+            "volume": [
+              10.0,
+              10.0
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          }
+        }
+      },
+      "imitators:thelegged": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "ambient": {
+            "sound": "mob.imitators_tornopen.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "hurt": {
+            "sound": "mob.imitators_tornopen.hurt",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "death": {
+            "sound": "mob.imitators_tornopen.death",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "step": {
+            "sound": "mob.imitators_tornopen.step",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "attack.strong": {
+            "sound": "mob.imitators_tornopen.bite",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "roar": {
+            "sound": "mob.imitators_tornopen.roar",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "stun": {
+            "sound": "mob.imitators_thelegged.stun",
+            "volume": [
+              10.0,
+              10.0
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          },
+          "ambient.in.raid": {
+            "sound": "mob.imitators_tornopen.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "celebrate": {
+            "sound": "mob.imitators_tornopen.celebrate",
+            "volume": [
+              10.0,
+              10.0
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          }
+        }
+      },
+      "imitators:thelegged2": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "ambient": {
+            "sound": "mob.imitators_tornopen.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "hurt": {
+            "sound": "mob.imitators_tornopen.hurt",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "death": {
+            "sound": "mob.imitators_tornopen.death",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "step": {
+            "sound": "mob.imitators_thelegged2.step",
+            "volume": [
+              5.842,
+              5.842
+            ],
+            "pitch": [
+              0.6990000000000001,
+              0.6990000000000001
+            ]
+          },
+          "attack.strong": {
+            "sound": "mob.imitators_tornopen.bite",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "roar": {
+            "sound": "mob.imitators_thelegged.roar",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "stun": {
+            "sound": "mob.imitators_thelegged.stun",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "ambient.in.raid": {
+            "sound": "mob.imitators_tornopen.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "celebrate": {
+            "sound": "mob.imitators_thelegged.celebrate",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          }
+        }
+      },
+      "imitators:thelegged1": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "ambient": {
+            "sound": "mob.imitators_tornopen.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "hurt": {
+            "sound": "mob.imitators_tornopen.hurt",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "death": {
+            "sound": "mob.imitators_tornopen.death",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "step": {
+            "sound": "mob.imitators_tornopen.step",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "attack.strong": {
+            "sound": "mob.imitators_tornopen.bite",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "roar": {
+            "sound": "mob.imitators_thelegged.roar",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "stun": {
+            "sound": "mob.imitators_thelegged.stun",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "ambient.in.raid": {
+            "sound": "mob.imitators_tornopen.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "celebrate": {
+            "sound": "mob.imitators_thelegged.celebrate",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          }
+        }
+      },
+      "imitators:facelesswanderer": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "ambient": {
+            "sound": "mob.imitators_tornopen.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "hurt": {
+            "sound": "mob.imitators_tornopen.hurt",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "death": {
+            "sound": "mob.imitators_tornopen.death",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "step": {
+            "sound": "mob.imitators_tornopen.step",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "attack.strong": {
+            "sound": "mob.imitators_tornopen.bite",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "roar": {
+            "sound": "mob.imitators_tornopen.roar",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "stun": {
+            "sound": "mob.imitators_facelesswanderer.stun",
+            "volume": [
+              10.0,
+              10.0
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          },
+          "ambient.in.raid": {
+            "sound": "mob.imitators_tornopen.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "celebrate": {
+            "sound": "mob.imitators_facelesswanderer.celebrate",
+            "volume": [
+              10.0,
+              10.0
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          }
+        }
+      },
+      "imitators:facelesswanderer1": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "ambient": {
+            "sound": "mob.imitators_tornopen.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "hurt": {
+            "sound": "mob.imitators_tornopen.hurt",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "death": {
+            "sound": "mob.imitators_tornopen.death",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "step": {
+            "sound": "mob.imitators_tornopen.step",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "attack.strong": {
+            "sound": "mob.imitators_tornopen.bite",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "roar": {
+            "sound": "mob.imitators_thelegged.roar",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "stun": {
+            "sound": "mob.imitators_thelegged.stun",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "ambient.in.raid": {
+            "sound": "mob.imitators_tornopen.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "celebrate": {
+            "sound": "mob.imitators_thelegged.celebrate",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          }
+        }
+      },
+      "imitators:facelesswanderer2": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "ambient": {
+            "sound": "mob.imitators_tornopen.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "hurt": {
+            "sound": "mob.imitators_tornopen.hurt",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "death": {
+            "sound": "mob.imitators_tornopen.death",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "step": {
+            "sound": "mob.imitators_thelegged2.step",
+            "volume": [
+              5.842,
+              5.842
+            ],
+            "pitch": [
+              0.6990000000000001,
+              0.6990000000000001
+            ]
+          },
+          "attack.strong": {
+            "sound": "mob.imitators_tornopen.bite",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "roar": {
+            "sound": "mob.imitators_thelegged.roar",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "stun": {
+            "sound": "mob.imitators_thelegged.stun",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "ambient.in.raid": {
+            "sound": "mob.imitators_tornopen.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "celebrate": {
+            "sound": "mob.imitators_thelegged.celebrate",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          }
+        }
+      },
+      "imitators:split": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "ambient": {
+            "sound": "mob.imitators_theteethed.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "hurt": {
+            "sound": "mob.imitators_split.hurt",
+            "volume": [
+              5.842,
+              5.842
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          },
+          "death": {
+            "sound": "mob.imitators_split.death",
+            "volume": [
+              7.921,
+              7.921
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          },
+          "step": {
+            "sound": "mob.imitators_split.step",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "attack.strong": {
+            "sound": "mob.imitators_theteethed.bite",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "roar": {
+            "sound": "mob.imitators_theteethed.roar",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "stun": {
+            "sound": "mob.imitators_split.stun",
+            "volume": [
+              10.0,
+              10.0
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          },
+          "ambient.in.raid": {
+            "sound": "mob.imitators_theteethed.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "celebrate": {
+            "sound": "mob.imitators_split.celebrate",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          }
+        }
+      },
+      "imitators:split2": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "ambient": {
+            "sound": "mob.imitators_theteethed.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "hurt": {
+            "sound": "mob.imitators_split.hurt",
+            "volume": [
+              5.842,
+              5.842
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          },
+          "death": {
+            "sound": "mob.imitators_split.death",
+            "volume": [
+              7.921,
+              7.921
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          },
+          "step": {
+            "sound": "mob.imitators_split.step",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "attack.strong": {
+            "sound": "mob.imitators_theteethed.bite",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "roar": {
+            "sound": "mob.imitators_split_chase.roar",
+            "volume": [
+              10.0,
+              10.0
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          },
+          "stun": {
+            "sound": "mob.imitators_split.stun",
+            "volume": [
+              10.0,
+              10.0
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          },
+          "ambient.in.raid": {
+            "sound": "mob.imitators_theteethed.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "celebrate": {
+            "sound": "mob.imitators_split.celebrate",
+            "volume": [
+              10.0,
+              10.0
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          }
+        }
+      },
+      "imitators:split1": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "ambient": {
+            "sound": "mob.imitators_theteethed.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "hurt": {
+            "sound": "mob.imitators_split1.hurt",
+            "volume": [
+              5.842,
+              5.842
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          },
+          "death": {
+            "sound": "mob.imitators_split1.death",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "step": {
+            "sound": "mob.imitators_split1.step",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "attack.strong": {
+            "sound": "mob.imitators_theteethed.bite",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "roar": {
+            "sound": "mob.imitators_split1.roar",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "stun": {
+            "sound": "mob.imitators_split1.stun",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "ambient.in.raid": {
+            "sound": "mob.imitators_theteethed.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "celebrate": {
+            "sound": "mob.imitators_split1.celebrate",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          }
+        }
+      },
+      "imitators:grinning_chase": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "ambient": {
+            "sound": "mob.imitators_theteethed.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "hurt": {
+            "sound": "mob.imitators_grinning_chase.hurt",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "death": {
+            "sound": "mob.imitators_grinning_chase.death",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "step": {
+            "sound": "mob.imitators_grinning_chase.step",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "attack.strong": {
+            "sound": "mob.imitators_theteethed.bite",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "roar": {
+            "sound": "mob.imitators_grinning_chase.roar",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "stun": {
+            "sound": "mob.imitators_grinning_chase.stun",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "ambient.in.raid": {
+            "sound": "mob.imitators_theteethed.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "celebrate": {
+            "sound": "mob.imitators_grinning_chase.celebrate",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          }
+        }
+      },
+      "imitators:grinning": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "ambient": {
+            "sound": "mob.imitators_theteethed.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "hurt": {
+            "sound": "mob.imitators_grinning.hurt",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "death": {
+            "sound": "mob.imitators_grinning.death",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "step": {
+            "sound": "mob.imitators_grinning.step",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "attack.strong": {
+            "sound": "mob.imitators_theteethed.bite",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "roar": {
+            "sound": "mob.imitators_theteethed.roar",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "stun": {
+            "sound": "mob.imitators_grinning.stun",
+            "volume": [
+              10.0,
+              10.0
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          },
+          "ambient.in.raid": {
+            "sound": "mob.imitators_theteethed.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "celebrate": {
+            "sound": "mob.imitators_theteethed.celebrate",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          }
+        }
+      },
+      "imitators:theteethed_chase": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "ambient": {
+            "sound": "mob.imitators_theteethed.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "hurt": {
+            "sound": "mob.imitators_theteethed.hurt",
+            "volume": [
+              5.149,
+              5.149
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          },
+          "death": {
+            "sound": "mob.imitators_theteethed.death",
+            "volume": [
+              10.0,
+              10.0
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          },
+          "step": {
+            "sound": "mob.imitators_theteethed.step",
+            "volume": [
+              6.04,
+              6.04
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          },
+          "attack.strong": {
+            "sound": "mob.imitators_theteethed.bite",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "roar": {
+            "sound": "mob.imitators_theteethed_chase.roar",
+            "volume": [
+              7.03,
+              7.03
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          },
+          "stun": {
+            "sound": "mob.imitators_theteethed.stun",
+            "volume": [
+              10.0,
+              10.0
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          },
+          "ambient.in.raid": {
+            "sound": "mob.imitators_theteethed.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "celebrate": {
+            "sound": "mob.imitators_theteethed.celebrate",
+            "volume": [
+              10.0,
+              10.0
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          }
+        }
+      },
+      "imitators:theteethed": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "ambient": {
+            "sound": "mob.imitators_theteethed.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "hurt": {
+            "sound": "mob.imitators_theteethed.hurt",
+            "volume": [
+              5.149,
+              5.149
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          },
+          "death": {
+            "sound": "mob.imitators_theteethed.death",
+            "volume": [
+              10.0,
+              10.0
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          },
+          "step": {
+            "sound": "mob.imitators_theteethed.step",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "attack.strong": {
+            "sound": "mob.imitators_theteethed.bite",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "roar": {
+            "sound": "mob.imitators_theteethed.roar",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "stun": {
+            "sound": "mob.imitators_theteethed.stun",
+            "volume": [
+              10.0,
+              10.0
+            ],
+            "pitch": [
+              0.994,
+              0.994
+            ]
+          },
+          "ambient.in.raid": {
+            "sound": "mob.imitators_theteethed.ambient",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          },
+          "celebrate": {
+            "sound": "mob.imitators_theteethed.celebrate",
+            "volume": [
+              0.1,
+              0.1
+            ],
+            "pitch": [
+              0.05,
+              0.05
+            ]
+          }
+        }
+      }
+    }
+  }
+}
