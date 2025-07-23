@@ -1,0 +1,33 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "spotted:grinning",
+      "materials": {
+        "default": "silverfish",
+        "body_layer": "silverfish_layers"
+      },
+      "textures": {
+        "default": "textures/entity/pamobile/spotted_grinning"
+      },
+      "geometry": {
+        "default": "geometry.spotted_grinning"
+      },
+      "animations": {
+        "move": "animation.spotted_grinning.move"
+      },
+      "animation_controllers": [
+        {
+          "move": "controller.animation.spotted_grinning.move"
+        }
+      ],
+      "render_controllers": [
+        "controller.render.silverfish"
+      ],
+      "spawn_egg": {
+        "base_color": "#EA9A51",
+        "overlay_color": "#FF0909"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "imitators:facelesswanderer",
+      "textures": {
+        "default": "textures/entity/pamobile/imitators_facelesswanderer"
+      },
+      "materials": {
+        "default": "skeleton"
+      },
+      "geometry": {
+        "default": "geometry.imitators_facelesswanderer"
+      },
+      "render_controllers": [
+        "controller.render.translucence"
+      ],
+      "spawn_egg": {
+        "base_color": "#FFFFFF",
+        "overlay_color": "#FFFFFF"
+      },
+      "animations": {
+        "walk": "animation.imitators_facelesswanderer.climb_2",
+        "stand": "animation.imitators_facelesswanderer.idle_3",
+        "run": "animation.imitators_facelesswanderer.run_1"
+      },
+      "scripts": {
+        "animate": [
+          "root",
+          {
+            "walk": "query.is_moving && query.modified_move_speed < 0.3"
+          },
+          {
+            "run": "query.modified_move_speed > 0.3"
+          },
+          {
+            "stand": "!query.is_moving"
+          }
+        ]
+      }
+    }
+  }
+}
