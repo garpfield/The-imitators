@@ -1,0 +1,1 @@
+event entity @e [type=!player] despawn

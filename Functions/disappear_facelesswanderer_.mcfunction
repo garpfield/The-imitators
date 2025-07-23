@@ -1,0 +1,1 @@
+tp @e[type=imitators:facelesswanderer2] -1000 -20 1000
